@@ -1,2 +1,3 @@
 # Pricing-Panel
-![image](https://github.com/ozantezel/Pricing-Panel/assets/100883177/440c60f2-65db-4a0f-9443-664aaecc3c36)
+![image](https://github.com/ozantezel/Pricing-Panel/assets/100883177/556afff1-8d7e-4f37-8aa5-bdd97f15f79d)
+
